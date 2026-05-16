@@ -1,0 +1,42 @@
+{
+"name": "period",
+"sources": [
+{
+"name": "",
+"layerName": "3adbf7fc",
+"locationBase": "3adbf7fc"
+}
+],
+"layers": {
+"3adbf7fc": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 50,
+"y": 76
+},
+{
+"x": 50,
+"y": 0
+},
+{
+"x": 126,
+"y": 0
+},
+{
+"x": 126,
+"y": 76
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 176
+}
+}
+}
+}
