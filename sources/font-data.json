@@ -1,0 +1,121 @@
+{
+"fontInfo": {
+"familyName": "Zunan",
+"versionMajor": 1,
+"versionMinor": 0
+},
+"axes": {
+"axes": [
+{
+"name": "weight",
+"label": "Weight",
+"tag": "wght",
+"minValue": 0,
+"defaultValue": 0,
+"maxValue": 1000,
+"valueLabels": [
+{
+"name": "Regular",
+"value": 434.72
+}
+]
+}
+]
+},
+"sources": {
+"3adbf7fc": {
+"name": "Regular",
+"location": {
+"weight": 0
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 750,
+"zone": 16
+},
+"descender": {
+"value": -250,
+"zone": -16
+},
+"xHeight": {
+"value": 500,
+"zone": 16
+},
+"capHeight": {
+"value": 750,
+"zone": 16
+},
+"baseline": {
+"value": 0,
+"zone": -16
+}
+}
+},
+"6672a11c": {
+"name": "Untitled source 2",
+"location": {
+"weight": 778.84
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 750,
+"zone": 16
+},
+"descender": {
+"value": -250,
+"zone": -16
+},
+"xHeight": {
+"value": 500,
+"zone": 16
+},
+"capHeight": {
+"value": 750,
+"zone": 16
+},
+"baseline": {
+"value": 0,
+"zone": -16
+}
+}
+},
+"6a259347": {
+"name": "Untitled source",
+"location": {
+"weight": 1000
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 750,
+"zone": 16
+},
+"descender": {
+"value": -250,
+"zone": -16
+},
+"xHeight": {
+"value": 500,
+"zone": 16
+},
+"capHeight": {
+"value": 750,
+"zone": 16
+},
+"baseline": {
+"value": 0,
+"zone": -16
+}
+}
+}
+},
+"customData": {
+"fontra.projectGlyphSets": [
+{
+"commentChars": "#",
+"dataFormat": "glyph-names",
+"name": "GF Latin Kernel",
+"url": "https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Latin_Kernel.txt"
+}
+]
+}
+}
